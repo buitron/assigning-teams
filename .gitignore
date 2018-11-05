@@ -1,0 +1,5 @@
+# Mac BS
+.DS_Store
+
+# Python weird shit
+__pycache__
